@@ -9,3 +9,19 @@ Illustrations powered by [keymap-drawer](https://caksoylar.github.io/keymap-draw
 ### layout
 
 ![layout](./layout.svg)
+
+
+# Extra Notes
+
+```shell
+$ bash -c "$(curl -fsSL https://zmk.dev/setup.sh)"
+
+# keyboard: nice!view
+# mcu: nice!nano v1
+```
+
+
+
+## links
+* https://showcase.beekeeb.com/chocofi/
+* https://www.reddit.com/r/ErgoMechKeyboards/comments/1et5o1v/question_about_beekeebs_chocofi/
